@@ -5,11 +5,11 @@ Basic Ass Account nuker, discord token fucker for discord.
 this is my first python project, so dont come blabbering your shitty little skid mouth to me about how bad my code is written lmao
 
 
-![](https://gfycat.com/filthyflowerybackswimmer)
+![](https://tenor.com/view/gif-18898011)
 
 # COME TO GOOSE CORPS SITE!
   https://goosecorp.net/
-![](https://gfycat.com/filthyflowerybackswimmer)
+![](https://tenor.com/view/gif-18898011)
 
 
 # Legality
