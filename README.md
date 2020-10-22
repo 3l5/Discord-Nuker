@@ -1,7 +1,8 @@
 # Discord-Nuker
 
-# Zoolio3000-Account-Nuker
-Account nuker, discord token fucker for discord.
+# Zoolio3000
+Basic Ass Account nuker, discord token fucker for discord.
+this is my first python project, so dont come blabbering your shitty little skid mouth to me about how bad my code is written lmao
 
 
 ![](https://betanews.com/wp-content/uploads/2018/06/gifs-on-cli.gif)
