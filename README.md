@@ -5,7 +5,7 @@ Basic Ass Account nuker, discord token fucker for discord.
 this is my first python project, so dont come blabbering your shitty little skid mouth to me about how bad my code is written lmao
 
 
-![](https://tenor.com/view/goose-duck-neck-gif-10344438)
+![](![](https://betanews.com/wp-content/uploads/2018/06/gifs-on-cli.gif))
 
 # COME TO GOOSE CORPS SITE!
   https://goosecorp.net/
