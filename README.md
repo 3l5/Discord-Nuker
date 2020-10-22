@@ -6,8 +6,8 @@ Account nuker, discord token fucker for discord.
 
 ![](https://betanews.com/wp-content/uploads/2018/06/gifs-on-cli.gif)
 
-# Install chromedriver.exe
-  - https://chromedriver.chromium.org/downloads
+# COME TO GOOSE CORPS SITE!
+  https://goosecorp.net/
 
 
 # Legality
