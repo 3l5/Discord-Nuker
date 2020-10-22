@@ -9,6 +9,7 @@ this is my first python project, so dont come blabbering your shitty little skid
 
 # COME TO GOOSE CORPS SITE!
   https://goosecorp.net/
+  https://gfycat.com/filthyflowerybackswimmer
 
 
 # Legality
